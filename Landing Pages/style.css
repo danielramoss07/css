@@ -1,0 +1,15 @@
+.h1 {
+    border: 10px;
+    background-color: blue;
+    text-align: center;
+    color: white;
+    font-size: 34px;
+}
+
+.pb {
+    font-size: 20px;
+}
+
+.img {
+    right: 700px;
+}
